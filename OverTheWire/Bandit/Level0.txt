@@ -1,0 +1,10 @@
+Aqui eh necessario conectar ao servidor usando ssh:
+Comando:
+ssh -p port_number user@IP
+
+ssh -p 2220 bandit0@bandit.labs.overthewire.org
+
+ls
+cat readme
+
+password = ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
