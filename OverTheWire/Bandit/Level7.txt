@@ -1,0 +1,4 @@
+bandit7@bandit:~$ du -b data.txt
+4184396	data.txt
+bandit7@bandit:~$ cat data.txt | grep millionth
+millionth	dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc

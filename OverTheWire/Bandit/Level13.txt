@@ -1,0 +1,5 @@
+┌─[rui@archlinux]─[~]
+└──>  $ ssh -i key bandit14@bandit.labs.overthewire.org
+
+
+basicamente precisa dar chmod 700 para a chave privada de ssh

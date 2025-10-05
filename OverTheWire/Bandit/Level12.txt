@@ -1,0 +1,9 @@
+Basicamente tem que ficar usando:
+file
+gzip -d
+bzip2 -d
+tar -xf
+
+nos arquivos gerados e no final chegara em:
+bandit12@bandit:/tmp/auxx$ cat data8
+The password is FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
