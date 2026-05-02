@@ -1,0 +1,10 @@
+Nome das ferramentas para usar no CTF, separados por tipo de desafios:
+
+== Web ==
+
+-> dirb e gobuster
+    Ferramentas clássicos de busca de paths em urls utilizando dicionários.
+
+-> AbuseIPDB e Cisco Talos Intelligence
+    São bancos de dados de IPs, na qual podem ser utilizados para localizar e 
+verificar se um IP é maliciosa ou não.

@@ -1,0 +1,15 @@
+Explicação bem simples sobre execução simbolica.
+
+    Gostariamos de executar o código em assembly ao invés de executar ele como 
+código queremos executar ele transformando ele em uma expressão matemática, então
+primeiramente, vamos mapear todas as operações de assembly, depois disso, faremos
+uma map para os dados contidos dentro de cada registrador, e por último como temos
+as operações matemáticas montadas, então basta substituir os valores do map nas 
+expressões.
+    Algumas expressões de jump são transformadas para "if".
+    As expressões matemáticas devem ser simplificadas o máximo possível e depois
+disso será executados manualmente no código e isso geraria resultado final igual
+uma execução do código em si.
+    Podemos usar o "Miasm" para transformar o assembly nessas expressões ao em
+vez de fazer na mão e além de transformar em expressão ele também otimiza/simplifica.
+    

@@ -1,0 +1,68 @@
+Diferentes carreiras na segurança.
+
+== Analista de Segurança ==
+
+    São realmente analistas de sistemas na qual fazem sugestões para os desenvolvedores
+para fins de proteger a empresa.
+    Então constroi relatórios e cria planos para outras equipes de segurança.
+    Alguns guias para essa area:
+        - https://tryhackme.com/r/careers/cyber-security-analyst
+        - https://tryhackme.com/r/resources/blog/become-level-1-soc-analyst
+        - https://tryhackme.com/r/resources/blog/interview-with-soc-analyst
+        - https://tryhackme.com/r/resources/blog/soc-analyst-interview-guide
+        - https://tryhackme.com/r/resources/blog/haydens-success-story
+
+
+== Engenheiro de Segurança ==
+
+    A sua função é desenvolver e implementar sistemas de segurança ou mesmo resolver
+vulnerabilidades do sistema, impedindo ataques e perdas de dados.
+    Alguns guias para essa area:
+        - https://tryhackme.com/r/careers/security-engineer
+        - https://tryhackme.com/r/resources/blog/become-security-engineer
+        - https://tryhackme.com/r/resources/blog/interview-with-security-engineer
+        - https://tryhackme.com/r/resources/blog/security-engineer-interview-guide
+        - https://tryhackme.com/r/resources/blog/richard-success-story
+
+
+== Profissionais de Resposta ==
+    
+    A sua função é elaborar planos, políticas e protocolos para as organizações
+implantarem durante e após incidentes. Exige avaliações e respostas em tempo real
+sendo algumas métricas de resposta como MTTD, MTTA e MTTR. O objetivo é alcançar 
+uma resposta rápida e eficaz, manter a solidez financeira e evitar implicações 
+negativas decorrentes da violação.
+
+
+== Examinador Forense Digital ==
+
+    Área focado em forense, como um detetive porém digital, então a função é coletar
+evidencias digitais, analisar evidencias digitais e escrever relatórios sobre.
+
+
+== Analista de Malwares == 
+
+    Faz analise sobre o malware escrevendo relatórios sobre. É necessário ter uma
+ampla conhecimento sobre linguagens de baixo nivel. Fazem análises estáticos e 
+dinâmicas.
+
+
+== Pentester ==
+
+    São hackers éticos contratados para fazerem teste de penetração que tentam
+achar vulnerabilidade sobre o sistema analisado testando amplamente tudo do sistema.
+    Algumas guias para essa area:
+        - https://tryhackme.com/r/careers/penetration-tester
+        - https://tryhackme.com/r/resources/blog/how-to-become-a-penetration-tester
+        - https://tryhackme.com/r/resources/blog/jr-pentester-interview-guide
+        - https://tryhackme.com/r/resources/blog/tom-success-story
+
+ 
+== Red Team ==
+
+   Red Team são parecidos com pentester, ambos exploram vulnerabilidades do sistema
+porém o red team deve atuar como um atacante, então ele deve simular um ataque
+como se fosse na vida real.
+    Alguns guias para essa area:
+        - https://tryhackme.com/r/resources/blog/red-teaming-jobs-salaries-opportunities
+

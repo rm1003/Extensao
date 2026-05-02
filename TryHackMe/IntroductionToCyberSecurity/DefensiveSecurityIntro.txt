@@ -1,0 +1,11 @@
+Introdução sobre segurança defensiva e tópicos relacionados como Inteligência de
+Ameaças, SOC (Security Operation Center), DFIR (Digital Forensics and Incident 
+Response), Análise de Malware e SIEM. Identificar e explorar vulnerabilidades
+do sistema.
+
+    Basicamente a tarefa mostra e simula um SIEM (System Information and Event 
+Management) e precisamos achar a flag em um site estatico.
+    
+    Podemos usar os bancos de dados como AbuseIPDB e Cisco Talos Intelligence
+para localicar e verificar endereços de IPs, verificando se é maliciosa ou não.
+

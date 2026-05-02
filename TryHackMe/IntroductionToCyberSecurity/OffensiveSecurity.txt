@@ -1,0 +1,4 @@
+Aqui ele explica coisas simples para sites:
+
+    Podemos usar por exemplo "dirb" ou "gobuster" que são ferramentas de força 
+bruta com dicionário para tentar achar paginas em um terminado url.
